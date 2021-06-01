@@ -1,0 +1,13 @@
+41ad5f6cbec4d7cc36dded11c4f640af *DESCRIPTION
+1c7c7a949335646e5a3d1debfae192cc *LICENSE
+f213695baa4f17e31fe837ae236ac811 *NAMESPACE
+156dfbe4af74f2636e7a73bd97df8881 *R/EB_CS.R
+48135469b219101e090d9a720a4add01 *R/density_LS.R
+97ea241ae805d639f60d8fae3b9a03e7 *R/density_PLS.R
+e306307722685efecb42da0563d46be3 *README.md
+0fdd4139c0835c8866756fedaab511af *man/EB_CS.Rd
+881b9f7570fdce3a69165e963ee72856 *man/density_LS.Rd
+025ff42df8d4bd5023d2e5d1312fb881 *man/density_PLS.Rd
+8c33c58209a7f3eadcfd6a18aed84cd6 *man/figures/README-example-1.png
+430d084bd99c308dca15fc01efdaf004 *tests/testthat.R
+539ea2f43c16d54b13a39dcdf8d820fa *tests/testthat/test_EB_CS.R
